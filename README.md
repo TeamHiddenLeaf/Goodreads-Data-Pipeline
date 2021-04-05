@@ -10,3 +10,7 @@
 
 ## Goodreads Pipeline DAG
 <img width="953" alt="goodreads_dag" src="https://user-images.githubusercontent.com/66754032/113553315-34ac5980-95bd-11eb-8504-a22b414da4c0.png">
+
+## DAG View
+<img width="946" alt="DAG" src="https://user-images.githubusercontent.com/66754032/113553531-88b73e00-95bd-11eb-85ff-e701309accf7.png">
+
