@@ -25,3 +25,6 @@ Once the data is moved to working zone, spark job is triggered which reads the d
 ## DAG Tree View
 <img width="409" alt="DAG_tree_view" src="https://user-images.githubusercontent.com/66754032/113553762-d8960500-95bd-11eb-8a9e-c9f03adadf1c.png">
 
+## DAG Gantt View
+<img width="840" alt="DAG_Gantt" src="https://user-images.githubusercontent.com/66754032/113553846-fcf1e180-95bd-11eb-89e6-e450ec2c190f.png">
+
