@@ -28,3 +28,7 @@ Once the data is moved to working zone, spark job is triggered which reads the d
 ## DAG Gantt View
 <img width="840" alt="DAG_Gantt" src="https://user-images.githubusercontent.com/66754032/113553846-fcf1e180-95bd-11eb-89e6-e450ec2c190f.png">
 
+## Data Loaded to Warehouse
+<img width="457" alt="WarehouseCount" src="https://user-images.githubusercontent.com/66754032/113553960-27439f00-95be-11eb-8821-236ea9517bb0.png">
+
+
