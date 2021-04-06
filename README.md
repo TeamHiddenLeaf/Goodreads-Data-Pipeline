@@ -1,5 +1,7 @@
 # Goodreads-Data-Pipeline
 
+![image-asset](https://user-images.githubusercontent.com/66754032/113646617-c7e19f80-964e-11eb-811d-983285d45d53.png)
+
 ## An end-to-end ETL pipeline to capture and process real-time books data
 
 ## Tools Used - AWS, Python, Redshift, Spark, Airflow, PostgreSQL
